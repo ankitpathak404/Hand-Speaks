@@ -117,7 +117,7 @@ Install Sign-language-recognition using one of the following methods:
 
 1. Clone the Sign-language-recognition repository:
 ```sh
-git clone 
+git clone https://github.com/ankitpathak404/Hand-Speaks
 ```
 
 2. Navigate to the project directory:
@@ -132,11 +132,12 @@ pip install tensorflow numpy pandas scikit-learn scipy
 ```
 
 
-###  Usage
-sensor.csv already contains data for 2 sign lanugage gestures- hello and thank you
-run data_creator.py to create dataset after connecting with android watch
-use compile_model.py to create your own model
-use static_test.py to test model with static dataset 
-use realtime_test.py to test model with realtime data(requires smartwatch connection)
-
-
+###Screenshots
+(screenshots\1.png)
+(screenshots\2.png)
+(screenshots\3.png)
+(screenshots\4.png)
+(screenshots\5.png)
+(screenshots\6.png)
+(screenshots\7.png)
+(screenshots\8.png)
